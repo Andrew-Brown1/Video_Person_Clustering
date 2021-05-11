@@ -19,9 +19,9 @@ If you find VPCD, or the code useful, please consider citing:
 @misc{Brown21c,
   author       = "Andrew Brown and Vicky Kalogeiton and Andrew Zisserman ",
   title        = "Face, Body, Voice: Video Person-Clustering with Multiple Modalities",
-      year={2021},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+  year={2021},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
 }
 ```
 ## TODO
