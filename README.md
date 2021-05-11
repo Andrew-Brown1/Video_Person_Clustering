@@ -7,6 +7,10 @@ The dataset can be downloaded from this link. The tar.gz file contains the datas
 
 VPCD is built upon popular video datasets that are commonly used in the Computer Vision community (e.g. [TBBT](http://tvd.niderb.fr/assets/pdf/lrec2014.pdf), [Buffy](https://www.robots.ox.ac.uk/~vgg/publications/papers/everingham06a.pdf), [Friends](https://www.robots.ox.ac.uk/~vgg/research/c1c/src/VickyKalogeitonBMVC2020.pdf), [Sherlock](https://www.robots.ox.ac.uk/~vgg/publications/2017/Nagrani17b/nagrani17b.pdf), [About Last Night](https://arxiv.org/pdf/2008.11289.pdf), [Hidden Figures](https://arxiv.org/pdf/2008.11289.pdf)) 
 
+## Code
+
+The code to produce video person-clustering results: Coming soon...
+
 ## Paper
 
 If you find VPCD, or the code useful, please consider citing:
