@@ -3,7 +3,7 @@ Repo for the Video Person Clustering dataset, and code for the associated paper.
 
 ## Video Person Clustering Dataset (VPCD)
 
-The dataset can be downloaded [here](https://www.robots.ox.ac.uk/~abrown/VPCD_Release1.tar.gz). The tar.gz file contains the dataset, and a README detailing the contents
+The dataset can be downloaded [here](https://www.robots.ox.ac.uk/~abrown/VPCD.tar.gz). The tar.gz file contains the dataset, and a README detailing the contents
 
 VPCD is built upon popular video datasets that are commonly used in the Computer Vision community (e.g. [TBBT](http://tvd.niderb.fr/assets/pdf/lrec2014.pdf), [Buffy](https://www.robots.ox.ac.uk/~vgg/publications/papers/everingham06a.pdf), [Friends](https://www.robots.ox.ac.uk/~vgg/research/c1c/src/VickyKalogeitonBMVC2020.pdf), [Sherlock](https://www.robots.ox.ac.uk/~vgg/publications/2017/Nagrani17b/nagrani17b.pdf), [About Last Night](https://arxiv.org/pdf/2008.11289.pdf), [Hidden Figures](https://arxiv.org/pdf/2008.11289.pdf)) 
 
