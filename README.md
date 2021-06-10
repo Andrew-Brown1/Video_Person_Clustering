@@ -13,6 +13,10 @@ VPCD is built upon popular video datasets that are commonly used in the Computer
 
 The code to produce video person-clustering results: Coming soon...
 
+## Important Notes
+
+Currently the available dataset does not have the exact statistics quoted in the paper. A corrected version will be made available soon
+
 ## Paper
 
 If you find VPCD, or the code useful, please consider citing:
