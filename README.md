@@ -15,6 +15,8 @@ The code to produce video person-clustering results: Coming soon...
 
 ## Important Notes
 
+Details for the raw resolution of the videos, and the frame rates used in the dataset, can be found in [this document](https://docs.google.com/document/d/1YTqU2V6Abkei1GlupFCinPH1-9T8NyTuzMni9h5YKAw/edit?usp=sharing)
+
 Currently the available dataset does not have the exact statistics quoted in the paper. A corrected version will be made available soon
 
 ## Paper
